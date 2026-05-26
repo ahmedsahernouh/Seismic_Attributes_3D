@@ -5,21 +5,35 @@ Exploratory 3D seismic attribute notebooks for reservoir property prediction and
 ## Screenshots
 
 <!-- screenshots:start -->
-![Notebook output 1](assets/screenshots/notebook-output-1.png)
+![Curated notebook output 1](assets/screenshots/curated-output-01.png)
 
-![Notebook output 2](assets/screenshots/notebook-output-2.png)
+![Curated notebook output 2](assets/screenshots/curated-output-02.png)
 
-![Notebook output 3](assets/screenshots/notebook-output-3.png)
+![Curated notebook output 3](assets/screenshots/curated-output-03.png)
 
-![Notebook output 4](assets/screenshots/notebook-output-4.png)
+![Curated notebook output 4](assets/screenshots/curated-output-04.png)
 
-![Notebook output 5](assets/screenshots/notebook-output-5.png)
+![Curated notebook output 5](assets/screenshots/curated-output-05.png)
 
-![Notebook output 6](assets/screenshots/notebook-output-6.png)
+![Curated notebook output 6](assets/screenshots/curated-output-06.png)
 
-![Notebook output 7](assets/screenshots/notebook-output-7.png)
+![Curated notebook output 7](assets/screenshots/curated-output-07.png)
 
-![Notebook output 8](assets/screenshots/notebook-output-8.png)
+![Curated notebook output 8](assets/screenshots/curated-output-08.png)
+
+![Curated notebook output 9](assets/screenshots/curated-output-09.png)
+
+![Curated notebook output 10](assets/screenshots/curated-output-10.png)
+
+![Curated notebook output 11](assets/screenshots/curated-output-11.png)
+
+![Curated notebook output 12](assets/screenshots/curated-output-12.png)
+
+![Curated notebook output 13](assets/screenshots/curated-output-13.png)
+
+![Curated notebook output 14](assets/screenshots/curated-output-14.png)
+
+![Curated notebook output 15](assets/screenshots/curated-output-15.png)
 
 <!-- screenshots:end -->
 
