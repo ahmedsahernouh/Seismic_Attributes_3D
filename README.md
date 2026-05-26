@@ -5,11 +5,21 @@ Exploratory 3D seismic attribute notebooks for reservoir property prediction and
 ## Screenshots
 
 <!-- screenshots:start -->
-![Notebook Output 1](assets/screenshots/notebook-output-1.png)
+![Notebook output 1](assets/screenshots/notebook-output-1.png)
 
-![Notebook Output 2](assets/screenshots/notebook-output-2.png)
+![Notebook output 2](assets/screenshots/notebook-output-2.png)
 
-![Notebook Output 3](assets/screenshots/notebook-output-3.png)
+![Notebook output 3](assets/screenshots/notebook-output-3.png)
+
+![Notebook output 4](assets/screenshots/notebook-output-4.png)
+
+![Notebook output 5](assets/screenshots/notebook-output-5.png)
+
+![Notebook output 6](assets/screenshots/notebook-output-6.png)
+
+![Notebook output 7](assets/screenshots/notebook-output-7.png)
+
+![Notebook output 8](assets/screenshots/notebook-output-8.png)
 
 <!-- screenshots:end -->
 
