@@ -37,10 +37,6 @@ Exploratory 3D seismic attribute notebooks for reservoir property prediction and
 
 <!-- screenshots:end -->
 
-## Repository Status
-
-Public-facing 3D seismic attribute analytics workflow using curated explanatory screenshots and sanitized portfolio assets.
-
 ## What This Demonstrates
 
 - Domain-focused analytical thinking
@@ -62,7 +58,3 @@ For Streamlit apps:
 ```bash
 streamlit run app.py
 ```
-
-## Data And Inputs
-
-This repository is prepared for public portfolio use. Inputs committed here should be synthetic, public, or otherwise approved for sharing.
