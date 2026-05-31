@@ -52,9 +52,3 @@ python -m venv .venv
 pip install -r requirements.txt
 jupyter lab
 ```
-
-For Streamlit apps:
-
-```bash
-streamlit run app.py
-```
